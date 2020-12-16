@@ -25,7 +25,7 @@ sudo ./install.sh
 
 Sometime this tool does not work.
 
-### Termnal Command ###
+### Terminal Command ###
 
 git clone https://github.com/r3k4t/mintreaver
 <br>
