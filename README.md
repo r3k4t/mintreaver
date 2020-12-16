@@ -25,6 +25,13 @@ sudo ./install.sh
 
 Sometime this tool does not work.
 
+### Termnal Command ###
+
+git clone https://github.com/r3k4t/mintreaver
+<br>
+cd mintreaver
+<br>
+sudo python mintreaver.py
 
 ### Screenshots ###
 
