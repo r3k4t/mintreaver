@@ -9,7 +9,7 @@ echo "        ██║██║╚██╗██║╚════██║   
 echo "        ██║██║ ╚████║███████║   ██║   ██║  ██║███████╗███████╗██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║ " 
 echo "        ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ "                                                                                                
 echo "                               \e[1;33mCoded by Rahat Khan Tusar(RKT)\e[0m"
-echo "                                \e[1;33mGithub:https://github.com/r3k4t\e[0m"
+echo "                               \e[1;33mGithub:https://github.com/r3k4t\e[0m"
 echo
 echo
 sudo apt install figlet
