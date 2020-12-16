@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/Python-purple.svg)](https://www.python.org/)
+[![Shell](https://img.shields.io/badge/Shell-purple.svg)](https://en.wikipedia.org/wiki/Shellcode)
 
 <h2>Mintreaver</h2>
 
